@@ -106,7 +106,6 @@
         <td><%=functionResult.getResult()%>
         </td>
     </tr>
-</table>
         <%
         }
     } else {
